@@ -1,0 +1,7 @@
+Productions:
+S->AB
+A->CA|a
+C->a
+B->DB|b
+D->b
+string: aaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbaaa
